@@ -14,7 +14,7 @@ These applications can be installed via an interactive Qlik Application Automati
 
 | Monitoring Application                                                        | Compatible deployment modes | Compatible subscription types |
 | ----------------------------------------------------------------------------- | --------------------------- | ----------------------------- |
-| [Qlik Capacity Apps](https://github.com/qlik-oss/qlik-cloud-access-evaluator) | Single tenant               | Capacity                      |
+| [Qlik Capacity App](https://github.com/tensor365/qlik-capacity-monitoring-app/blob/main/apps/Qlik%20Capacity%20Estimator.qvf) | Single tenant               | Capacity                      |
 
 
 ## Support policy
