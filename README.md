@@ -1,12 +1,12 @@
 > [!IMPORTANT]
 > The [Qlik Cloud Capacity Estimator App](https://github.com/tensor365/qlik-capacity-monitoring-app) project is _community supported_.
-> Qlik does not support these apps. See below for additional information
+> Qlik does not support this app. See below for additional information
 > on how to raise issues on this repository to ask for help.
 
 # Qlik Cloud Capacity Estimator App
 
 This repository references community-built and community-supported Qlik Sense
-applications, which provide visibility of both operational and usage data in Qlik Cloud.
+applications, which provide visibility of both operational and usage data capacity in Qlik Cloud.
 
 ## Prerequesites
 
@@ -21,15 +21,13 @@ Please follow this Qlik Video to generate your API key. If you have already it p
 
 [![Qlik Fix: How to Generate API Keys with APIs in Qlik Sense Enterprise SaaS](https://img.youtube.com/vi/G21EjnZJcj8/maxresdefault.jpg)](https://www.youtube.com/watch?v=G21EjnZJcj8)
 
-### Step 1: Installing the application Qlik Capacity Estimator
+### Step 1: Installing the application Qlik Capacity Estimator (by using automation installer)
 
 
 
 
 
-
-
-## Applications
+## Application
 
 These applications can be installed via an interactive Qlik Application Automation [installer] or manually. Please check the following Youtube video to make the installation.
 
