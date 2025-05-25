@@ -38,7 +38,7 @@ These applications can be installed via an interactive Qlik Application Automati
 
 ## Support policy
 
-These apps are provided as-is and are not supported by Qlik. Over time, the APIs and
+This app is provided as-is and is not supported by Qlik. Over time, the APIs and
 metrics used by the apps may change, so it is advised to monitor each repository
 for updates, and to update the apps promptly when new versions are available.
 
