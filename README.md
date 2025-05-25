@@ -8,6 +8,27 @@
 This repository references community-built and community-supported Qlik Sense
 applications, which provide visibility of both operational and usage data in Qlik Cloud.
 
+## Prerequesites
+
+- Qlik Tenant Admin Account 
+- An API Key (Please check step 0 if you don't have API Key)
+
+## Installation 
+
+### Step 0: Generating an Qlik Cloud API Key:
+
+Please follow this Qlik Video to generate your API key. If you have already it please, go to Step 1.
+
+[![Qlik Fix: How to Generate API Keys with APIs in Qlik Sense Enterprise SaaS](https://img.youtube.com/vi/G21EjnZJcj8/maxresdefault.jpg)](https://www.youtube.com/watch?v=G21EjnZJcj8)
+
+### Step 1: Installing the application Qlik Capacity Estimator
+
+
+
+
+
+
+
 ## Applications
 
 These applications can be installed via an interactive Qlik Application Automation [installer] or manually. Please check the following Youtube video to make the installation.
