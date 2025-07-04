@@ -15,6 +15,9 @@ applications, which provide visibility of both operational and usage data capaci
 
 ## Installation 
 
+[![Tutorial to install Qlik Data Capacity App](https://img.youtube.com/vi/G21EjnZJcj8/maxresdefault.jpg)](https://www.youtube.com/watch?v=q1A6uM6ilGA)
+
+
 ### Step 0: Generating an Qlik Cloud API Key:
 
 Please follow this Qlik Video to generate your API key. If you have already it please, go to Step 1.
@@ -22,9 +25,6 @@ Please follow this Qlik Video to generate your API key. If you have already it p
 [![Qlik Fix: How to Generate API Keys with APIs in Qlik Sense Enterprise SaaS](https://img.youtube.com/vi/G21EjnZJcj8/maxresdefault.jpg)](https://www.youtube.com/watch?v=G21EjnZJcj8)
 
 ### Step 1: Installing the application Qlik Capacity Estimator (by using automation installer)
-
-
-
 
 
 ## Application
